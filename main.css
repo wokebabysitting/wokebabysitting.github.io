@@ -6,23 +6,32 @@
 }
 
 .bg-woke-blue {
-  background-color: #059CC3;
+  background-color: #06ADDB;
 }
 .hover-bg-woke-blue:hover {
-  background-color: #059CC3;
+  background-color: #06ADDB;
 }
 
+
+
 .bg-woke-light-blue {
-  background-color: #06B0DD;
+  background-color: #88E3FC;
 }
 .hover-bg-woke-light-blue:hover {
-  background-color: #06B0DD;
+  background-color: #88E3FC;
+}
+
+.bg-woke-lighter-blue {
+  background-color: #C3F1FD;
+}
+.hover-bg-woke-lighter-blue:hover {
+  background-color: #C3F1FD;
 }
 
 .bg-woke-background {
-  background-color: #DEF;
+  background-color: #EBFAFE;
 }
 
 .b--woke-blue {
-  border-color: #059CC3;
+  border-color: #06ADDB;
 }
