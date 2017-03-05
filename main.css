@@ -1,3 +1,6 @@
+.woke-dark-blue {
+  color: #047391;
+}
 .bg-woke-dark-blue {
   background-color: #047391;
 }
@@ -5,6 +8,9 @@
   background-color: #047391;
 }
 
+.woke-blue {
+  color: #06ADDB;
+}
 .bg-woke-blue {
   background-color: #06ADDB;
 }
@@ -13,7 +19,9 @@
 }
 
 
-
+.woke-light-blue {
+  color: #88E3FC;
+}
 .bg-woke-light-blue {
   background-color: #88E3FC;
 }
