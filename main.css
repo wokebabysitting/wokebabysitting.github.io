@@ -1,0 +1,28 @@
+.bg-woke-dark-blue {
+  background-color: #047391;
+}
+.hover-bg-woke-dark-blue:hover {
+  background-color: #047391;
+}
+
+.bg-woke-blue {
+  background-color: #059CC3;
+}
+.hover-bg-woke-blue:hover {
+  background-color: #059CC3;
+}
+
+.bg-woke-light-blue {
+  background-color: #06B0DD;
+}
+.hover-bg-woke-light-blue:hover {
+  background-color: #06B0DD;
+}
+
+.bg-woke-background {
+  background-color: #DEF;
+}
+
+.b--woke-blue {
+  border-color: #059CC3;
+}
