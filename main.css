@@ -3,7 +3,12 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Hind', sans-serif;
+  font-family: 'Mockup', 'Hind', sans-serif;
+}
+
+@font-face {
+  font-family: Mockup;
+  src: url("/mockup2/Mockup-Regular.otf") format("opentype");
 }
 
 .woke-dark-blue {
